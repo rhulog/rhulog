@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rhulog
+- 👀 I’m interested in Front End Development and general CS studies
+- 🌱 I’m currently learning Javascript and Python
+- 💞️ I’m looking to collaborate on creative projects to stretch my skill to its limit
+- 📫 Reach me at homesanct@gmail.com
